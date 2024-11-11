@@ -1,0 +1,21 @@
+.btn {
+  padding: 1rem 10px;
+  background-color: rgb(102, 41, 159);
+  color: #fff;
+  cursor: pointer;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: .5rem;
+  min-width: 220px;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.btn:hover {
+  background: rgb(41, 15, 65);
+}

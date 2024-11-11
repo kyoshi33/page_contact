@@ -1,0 +1,18 @@
+.header {
+  padding: 1rem;
+}
+
+.header h1 {
+  font-size: clamp (30px, 5vw, 60px);
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-bottom: 1rem;
+}
+
+.header h1 span {
+  color: rgb(102, 14, 159)
+}
+
+.header p {
+  font-size: .9rem;
+}
